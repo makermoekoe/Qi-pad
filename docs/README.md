@@ -14,5 +14,14 @@ __TODO__
 
 ## Schematics and PCB
 
+[Design in Autodesk Eagle](https://www.instagram.com/p/BtY8-AnIJQN/?utm_source=ig_web_button_share_sheet)
+
+<center><img src="images/schematics.png" width="100%"></center>
+
+__Version 1__
+
+<center><img src="images/front.png" width="50%"></center>
+<center><img src="images/back.png" width="50%"></center>
+
 
 ## 3D printed case
