@@ -18,9 +18,9 @@ __TODO__
 
 I attached a small video of how to build the Qi-Pad. One is for soldering the PCB and the other is how to screw all this together. Just click on the small images for a video.
 
-<a href="https://www.instagram.com/p/Bt_UIqJooO2/?utm_source=ig_web_copy_link"><img src="docs/images/soldering.png" width="400px"></a>
+<a href="https://www.instagram.com/p/Bt_UIqJooO2/?utm_source=ig_web_copy_link"><img src="images/soldering.png" width="400px"></a>
 
-<a href="https://www.instagram.com/p/BuG4YjKjMxn/?utm_source=ig_web_copy_link"><img src="docs/images/build.png" width="400px"></a>
+<a href="https://www.instagram.com/p/BuG4YjKjMxn/?utm_source=ig_web_copy_link"><img src="images/build.png" width="400px"></a>
 
 ## Schematics and PCB
 
