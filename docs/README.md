@@ -1,6 +1,6 @@
 # Qi-pad
 
-<a href="https://www.instagram.com/p/BuO9Nh0oG7w/?utm_source=ig_web_copy_link"><img src="docs/images/simple.png" width="400px"></a>
+<a href="https://www.instagram.com/p/BuO9Nh0oG7w/?utm_source=ig_web_copy_link"><img src="images/simple.png" width="400px"></a>
 
 (Click on the image for a small video)
 
